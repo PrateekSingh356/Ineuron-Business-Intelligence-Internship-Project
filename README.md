@@ -1,1 +1,1 @@
-# Ineuron-Business-Intelligence-Internship-Project
+# Amazon Sales Data Analysis with Python and Power BI
